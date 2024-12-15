@@ -1,0 +1,2 @@
+This is the index file for the calculator branch created in order to add the calculator functionality to the codebase.
+	This simple calculator can add, subtract, divide and multiply any two real numbers.
